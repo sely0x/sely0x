@@ -4,6 +4,7 @@
 ` mottoㅣ돈이 없지 가오가 없나 `
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=selysely)](https://solved.ac/selysely)  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=osyless1)](https://solved.ac/osyless1)  
 [![sely0x's GitHub stats](https://github-readme-stats.vercel.app/api?username=sely0x&include_all_commits=true&show_icons=true&theme=swift)](https://github.com/sely0x/github-readme-stats)
 
 # #Stack 🔨
